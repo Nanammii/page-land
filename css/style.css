@@ -161,6 +161,12 @@ img {
   color: #000000;
   cursor: pointer;
 }
+.header__link:hover {
+  opacity: 0.5;
+}
+.header__link:active {
+  background-color: #b4b4b4;
+}
 @media (min-width: 768px) {
   .header__link {
     margin: 0;
@@ -356,6 +362,12 @@ img {
   line-height: 20px;
   font-weight: 600;
   cursor: pointer;
+}
+.intro__button:hover {
+  opacity: 0.7;
+}
+.intro__button:active {
+  background-color: #c2a600;
 }
 @media (min-width: 768px) {
   .intro__button {

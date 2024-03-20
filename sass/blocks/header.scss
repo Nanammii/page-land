@@ -40,6 +40,14 @@
   color: #000000;
   cursor: pointer;
 
+  &:hover {
+    opacity: 0.5;
+  }
+
+  &:active {
+    background-color: #b4b4b4;
+  }
+
   @media (min-width: 768px) {
     margin: 0;
   }
