@@ -55,7 +55,7 @@ img {
 }
 
 .main-container {
-  background: url("../../img/decor-figure.svg") no-repeat bottom left -63px, url("../../img/students.png") no-repeat bottom 26px left 253px;
+  background: url("../img/decor-figure.svg") no-repeat bottom left -63px, url("../img/students.png") no-repeat bottom 26px left 253px;
   background-size: auto, 236px 240px;
 }
 @media (min-width: 768px) {
@@ -78,7 +78,7 @@ img {
 }
 @media (min-width: 1920px) {
   .main-container {
-    background: url("../../img/decor-back.svg") no-repeat top 36px left 142px, url("../../img/decor-figure.svg") no-repeat bottom, url("../../img/students.png") no-repeat top 110px left 1073px, url("../../img/decor-arrow.svg") no-repeat top 36px left 1006px;
+    background: url("../img/decor-back.svg") no-repeat top 36px left 142px, url("../img/decor-figure.svg") no-repeat bottom, url("../img/students.png") no-repeat top 110px left 1073px, url("../img/decor-arrow.svg") no-repeat top 36px left 1006px;
     background-size: auto, 1921px 153px, auto, auto;
   }
 }
