@@ -135,6 +135,14 @@
   font-weight: 600;
   cursor: pointer;
 
+  &:hover {
+    opacity: 0.7;
+  }
+
+  &:active {
+    background-color: #c2a600;
+  }
+
   @media (min-width: 768px) {
     align-self: start;
     grid-column: 1/2;
